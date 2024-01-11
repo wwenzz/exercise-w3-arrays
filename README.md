@@ -10,7 +10,7 @@ In this week’s team session, you will practice JavaScript basics and work on a
 
 ### Instructions:
 
-Take a look into the `index.js` file and follow the instructions to complete the exercises 1-5 (number 6 is a bonus exercise).
+Take a look into the `index.js` file and follow the instructions to complete the exercises (the last one is a bonus exercise).
 
 ## Getting Started with the Project
 
